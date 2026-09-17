@@ -31,33 +31,28 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,mysql,postgres,git,github,vscode,linux&perline=8" alt="Tech stack" />
 </p>
 
-### 🤖 AI / ML
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge" alt="APIs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge" alt="AI Agents" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saumyshah08&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyshah08&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyshah08&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
-### 🟩 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyshah08&hide_border=true&area=true&custom_title=Saumy%20Shah's%20Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://komarev.com/ghpvc/?username=saumyshah08&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/saumyshah08?style=for-the-badge&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/saumyshah08?style=for-the-badge&label=TOTAL%20STARS" alt="GitHub stars" />
 </p>
+
+> 🟩 **Your GitHub contribution calendar is displayed automatically on your profile above this README.** Keep committing consistently and it will grow over time.
 
 ---
 
@@ -65,26 +60,30 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Studio Namma Clone
 
 Responsive frontend project focused on modern UI, layouts and practical web development.
 
-**Stack:** HTML • CSS • JavaScript
+**Stack:** `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/saumyshah08/studio-namma-clone">🔗 View Project</a>
+<p>
+<a href="https://github.com/saumyshah08/studio-namma-clone"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View repository"></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 Student Management System
 
 Java + MySQL project for student records, OOP practice and database integration.
 
-**Stack:** Java • MySQL • OOP
+**Stack:** `Java` `MySQL` `OOP`
 
-<a href="https://github.com/saumyshah08">🔗 View GitHub</a>
+<p>
+<a href="https://github.com/saumyshah08?tab=repositories"><img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github" alt="View projects"></a>
+</p>
 
 </td>
 </tr>
@@ -119,11 +118,6 @@ Generative AI              ██████████░░░░░░░�
 ---
 
 ## ⚡ Developer Mode
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saumyshah08&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/saumyshah08?style=for-the-badge&label=FOLLOWERS" alt="GitHub followers" />
-</p>
 
 > **Learn → Build → Break → Debug → Improve → Repeat.**
 

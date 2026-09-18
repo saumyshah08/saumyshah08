@@ -21,7 +21,7 @@
 - 📊 CGPA: **8.2 / 10.0**
 - 💻 Interested in **Software Engineering, AI/ML, Backend Development and Generative AI**
 - 🚀 Building practical projects while strengthening computer science fundamentals
-- 🧠 Currently focused on **DSA, Python, JavaScript, backend development and AI/ML**
+- 🧠 Currently focused on **DSA, Python, JavaScript, backend development , UI designing AI and machine learning**
 
 ---
 
